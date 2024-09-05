@@ -44,6 +44,15 @@ The **presentation** layer contains all UI-related components, including:
 
 The presentation layer interacts with the domain layer through entities and use cases.
 
+![CallFlow](https://github.com/dharmeshm10/seed/blob/main/assets/images/callFlow1.png)
+
+The entity is somehow understood by both domain and repository so that they can communicate, that’s why it’s in middle.
+
+<p align="center">
+  <img src="https://github.com/dharmeshm10/seed/blob/main/assets/images/callFlow2.png" alt="CallFlow" width="400" height="400"/>
+</p>
+
+
 ---
 
 ### Folder Structure
